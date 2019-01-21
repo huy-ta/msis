@@ -1,0 +1,9 @@
+const USER_ROLES = {
+  STUDENT: 'ROLE_STUDENT',
+  MANAGER: 'ROLE_MANAGER',
+  ADMIN: 'ROLE_ADMIN'
+};
+
+export { USER_ROLES };
+
+export default USER_ROLES;
